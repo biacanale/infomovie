@@ -1,0 +1,14 @@
+D:\Filme\InfoMovie\InfoMovie\bin\Debug\InfoMovie.exe.config
+D:\Filme\InfoMovie\InfoMovie\bin\Debug\InfoMovie.exe
+D:\Filme\InfoMovie\InfoMovie\bin\Debug\InfoMovie.pdb
+D:\Filme\InfoMovie\InfoMovie\obj\Debug\InfoMovie.csproj.SuggestedBindingRedirects.cache
+D:\Filme\InfoMovie\InfoMovie\obj\Debug\InfoMovie.Form1.resources
+D:\Filme\InfoMovie\InfoMovie\obj\Debug\InfoMovie.Properties.Resources.resources
+D:\Filme\InfoMovie\InfoMovie\obj\Debug\InfoMovie.csproj.GenerateResource.cache
+D:\Filme\InfoMovie\InfoMovie\obj\Debug\InfoMovie.csproj.CoreCompileInputs.cache
+D:\Filme\InfoMovie\InfoMovie\obj\Debug\InfoMovie.exe
+D:\Filme\InfoMovie\InfoMovie\obj\Debug\InfoMovie.pdb
+D:\Filme\InfoMovie\InfoMovie\obj\Debug\InfoMovie.Elenco.resources
+D:\Filme\InfoMovie\InfoMovie\obj\Debug\InfoMovie.Sinopse1.resources
+D:\Filme\InfoMovie\InfoMovie\obj\Debug\InfoMovie.Avaliacoes.resources
+D:\Filme\InfoMovie\InfoMovie\obj\Debug\InfoMovie.Home1.resources
