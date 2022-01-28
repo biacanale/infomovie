@@ -126,7 +126,7 @@
             this.button5.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button5.Location = new System.Drawing.Point(629, 0);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(37, 54);
+            this.button5.Size = new System.Drawing.Size(37, 40);
             this.button5.TabIndex = 7;
             this.button5.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button5.UseVisualStyleBackColor = true;

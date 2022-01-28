@@ -12,3 +12,4 @@ D:\Filme\InfoMovie\InfoMovie\obj\Debug\InfoMovie.Elenco.resources
 D:\Filme\InfoMovie\InfoMovie\obj\Debug\InfoMovie.Sinopse1.resources
 D:\Filme\InfoMovie\InfoMovie\obj\Debug\InfoMovie.Avaliacoes.resources
 D:\Filme\InfoMovie\InfoMovie\obj\Debug\InfoMovie.Home1.resources
+D:\Filme\InfoMovie\InfoMovie\obj\Debug\InfoMovie.csproj.AssemblyReference.cache

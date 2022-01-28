@@ -45,9 +45,9 @@
             this.button5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(195)))), ((int)(((byte)(197)))), ((int)(((byte)(196)))));
             this.button5.Image = ((System.Drawing.Image)(resources.GetObject("button5.Image")));
             this.button5.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button5.Location = new System.Drawing.Point(629, 0);
+            this.button5.Location = new System.Drawing.Point(631, 0);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(37, 54);
+            this.button5.Size = new System.Drawing.Size(35, 38);
             this.button5.TabIndex = 6;
             this.button5.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button5.UseVisualStyleBackColor = true;
