@@ -41,9 +41,9 @@
             this.button5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(195)))), ((int)(((byte)(197)))), ((int)(((byte)(196)))));
             this.button5.Image = ((System.Drawing.Image)(resources.GetObject("button5.Image")));
             this.button5.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button5.Location = new System.Drawing.Point(631, 0);
+            this.button5.Location = new System.Drawing.Point(629, 0);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(35, 39);
+            this.button5.Size = new System.Drawing.Size(35, 35);
             this.button5.TabIndex = 7;
             this.button5.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button5.UseVisualStyleBackColor = true;
@@ -59,9 +59,9 @@
             this.button1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(195)))), ((int)(((byte)(197)))), ((int)(((byte)(196)))));
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.Location = new System.Drawing.Point(487, 247);
+            this.button1.Location = new System.Drawing.Point(520, 246);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(135, 135);
+            this.button1.Size = new System.Drawing.Size(94, 123);
             this.button1.TabIndex = 8;
             this.button1.Text = "Assista ao trailer";
             this.button1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
